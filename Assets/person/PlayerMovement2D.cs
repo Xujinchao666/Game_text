@@ -12,6 +12,11 @@ public class PlayerMovement2D : MonoBehaviour
     private Vector2 _currentVelocity;
     private Vector2 _smoothVelocity;
     private GlobalInputManager _inputManager;
+    
+    [Header("动画相关")]
+    private Animator _anim;//动画器
+    private bool ismove;
+    private Vector2 lastMovement;
 
     private void Awake()
     {
@@ -24,13 +29,29 @@ public class PlayerMovement2D : MonoBehaviour
     private void Start()
     {
         _inputManager = GlobalInputManager.Instance;
+        _anim= GetComponent<Animator>();
+        lastMovement = Vector2.down;
     }
 
+    private void Update()
+    {
+        if (_inputManager == null) return;
+        Vector2 movement = _inputManager.MoveDirection;
+        ismove = movement != Vector2.zero;
+        _anim.SetBool("ismove", ismove);
+        if (movement != Vector2.zero)
+        {
+            lastMovement = movement;
+            _anim.SetFloat("LastHorizontal", lastMovement.x);
+            _anim.SetFloat("LastVertical", lastMovement.y);
+        }
+    }
     private void FixedUpdate()
     {
         if (_inputManager == null)
             return;
 
+        
         Vector2 direction = _inputManager.MoveDirection;
         Vector2 targetVelocity = direction * moveSpeed;
 

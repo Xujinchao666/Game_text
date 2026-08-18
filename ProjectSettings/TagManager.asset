@@ -41,3 +41,36 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: buildingbehind
+    uniqueID: 2551172369
+    locked: 0
+  - name: building
+    uniqueID: 3399694501
+    locked: 0
+  - name: buildingfront
+    uniqueID: 2025544593
+    locked: 0
+  - name: plant
+    uniqueID: 1571746609
+    locked: 0
+  - name: plant1
+    uniqueID: 443319067
+    locked: 0
+  - name: palnt2
+    uniqueID: 3702933579
+    locked: 0
+  - name: plant3
+    uniqueID: 3958593181
+    locked: 0
+  - name: plant4
+    uniqueID: 1615532551
+    locked: 0
+  - name: plant5
+    uniqueID: 2701397551
+    locked: 0
+  - name: plant6
+    uniqueID: 3222138413
+    locked: 0
+  - name: people
+    uniqueID: 2499066605
+    locked: 0
