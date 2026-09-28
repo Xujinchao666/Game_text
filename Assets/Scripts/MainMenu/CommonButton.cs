@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class CommnoButton : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
+public class CommonButton : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
     private Image image;
     private TextMeshProUGUI text;
