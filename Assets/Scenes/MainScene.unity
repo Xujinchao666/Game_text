@@ -6003,7 +6003,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61214e54b0edf3a479dbf357bc26790a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 10
+  moveSpeed: 3
   useSmoothMovement: 1
   smoothTime: 0.08
 --- !u!114 &391747749
