@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SettingsScene.unity
     guid: 07ffdb9a7a41937499db8a43c9415b14
+  - enabled: 1
+    path: Assets/Scenes/JiuxinyouguanScene.unity
+    guid: 18552343308e9c84694a395b1876285b
   m_configObjects: {}

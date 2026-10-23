@@ -1,0 +1,1693 @@
+fileFormatVersion: 2
+guid: 098cf6395b712dc48b607aabaabd704d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffc285a4fb804144b403efa1bee76d0
+      internalID: 1680486670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de139187501d774a8d3407aab99a344
+      internalID: 850353690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbec0542cbce4148b3447fc2e9992d1
+      internalID: -1510846872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db793fa915299e84dad4cbbefb406c04
+      internalID: 1629503358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8288f85f8cfb5eb4283abcefe5f290a2
+      internalID: 142434308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e18dc50ed415304f8094af1406b5740
+      internalID: 1802572215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef99ef0e0b49ebe45a133d7b9da808bb
+      internalID: 1515583974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3725cefc6909743b5e29cbf1a62d2f
+      internalID: -592869454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 616
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a07cd03b69a62c49960858000c2a463
+      internalID: -461085690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_9
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 615
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bcaccf927580e44816085c1cb2999c
+      internalID: -1899388809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7378f1e1166d2194a941a3b8360285f4
+      internalID: 586546235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1b7a572f291ad449e4de74c5a8b2e3
+      internalID: -1226742429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a1d56615705fd49a7bee646a4d4b71
+      internalID: -1318646584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88d7786efbb81340b2dfcec2333820b
+      internalID: 363350410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e371d101bf3e4941b38c61b3ee44947
+      internalID: 322576615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156862904f1807941ba979ad6bdb7dea
+      internalID: -1538540382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a69284775319034ebe368fae2c3caac
+      internalID: 167848369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d058516d0de9d3640b66ac9fe0280f6e
+      internalID: 80916511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 516
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4137ffe6f99e36b4da585980784ebf36
+      internalID: -1189010995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_19
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 514
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90777f01167e4942a0073722e981e3d
+      internalID: 525145623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c062db905e2390469e58fd700de8e0d
+      internalID: -124059249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928dae76748ce5643a18c131e57c3b41
+      internalID: 509392299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d714ba74d4da94f8269a88b78422e5
+      internalID: -1041353988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3288f93b449984d844f5e511e9cc71
+      internalID: -1534370008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a262eac0eefb8343ab4992aa0865848
+      internalID: 1473693984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507749d32604cf041aa71407f79c64a6
+      internalID: 792068945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb92ecb752ad97747b95c521141c1163
+      internalID: -128269957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefc0dfc3807822428be7d7b7f9736b4
+      internalID: -412587520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce149d93d0d50c9428b37f7ab8b96b81
+      internalID: -1816466632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 414
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d3289ffecdd4e48916847b2d59e17a
+      internalID: -866682671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033fc8a4a06d2849a17627a2fb96044
+      internalID: 527185841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384d2c15ed5e4134eb76580945d49acc
+      internalID: 865360395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215d345a3f042ba48aa4042dc090ea9e
+      internalID: -297551867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c620f73f062dc2469f9b5a1dd07c720
+      internalID: -1338730170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b927e8dde90794c828b3b2a72566a5
+      internalID: -234719939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195f276e475ab6744b34f362e06f0e1e
+      internalID: 1132591267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2520ec1b833a5c842aa595116776c11b
+      internalID: 2007383518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838b4e070f10760418f6088a521c51b4
+      internalID: -1151562928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 316
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9221c753e350fa04a90a79a0814f4c5c
+      internalID: 2100022697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_39
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 314
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d5ec59d87ea949bfc89f53226d21f
+      internalID: -429940735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d50d05866ec474468efeec3a98795a7
+      internalID: -1111367099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76605f96935f492439eff6030bfa9090
+      internalID: -1781846203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cdac3376c5c3c4b9494ca2f66520dd
+      internalID: -1950357637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3d0004f6eb174fa56a67baa738e68
+      internalID: -1798719191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b486d4272f8e4aa213e483c5dddcb
+      internalID: 191065465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df31c2bf75b78984fb8c3936eee7d6ad
+      internalID: 1063248923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaac99ec64c7e84b9ecfdff86a3008a
+      internalID: -269872597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b8ee37db18dde4884e44fa40fdfa37
+      internalID: -465702581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 216
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc982bb143b2540a83f1a370b1136d
+      internalID: -885651123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_49
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 214
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97abed97dc212648b9658c0b0ba6eab
+      internalID: 1233126318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e5dd705b20ee14cb99a318f203d10d
+      internalID: 1362112280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635169bd0f2f2d040b4fb3b0137b9a78
+      internalID: -1294937665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fefc28b58c57148b8fccb7cd20aa61
+      internalID: -372363668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca2a09f6ea719f46b9e9b40db96a249
+      internalID: -1225606127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b5b69d789e2034c80fe5afbbcb41ba
+      internalID: 203241276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa75e761dae16e42b4ad56a444497ff
+      internalID: -1102365929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e4692dab676b4c8f046cb808ef227
+      internalID: 1551597157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ddbd2bca790ff4c8120a0fb4bf9fab
+      internalID: 1485376102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 116
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5af05a72df9d0945bce7c4d24a8e50b
+      internalID: -1989966017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_59
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 114
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8f51d0c3de4f42beedfec59bb6935
+      internalID: 77364257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5abd80acc5ffe549bb68c66bfbaba28
+      internalID: -1609450035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aeaf606ccaece47aab6a224882b17e
+      internalID: -1425036970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2704686b59b96b242ba31e249ad29fa6
+      internalID: 847747396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f2346d6832ccf4fbbde641ed2d1d5e
+      internalID: 190864672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4afdbba4b64047880d331b78e870a
+      internalID: 2004431720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319e4db0bc3f13a45bce6f18e87cb0df
+      internalID: 347554795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a5c88e52a9f643a29da8638e34c59
+      internalID: 274121669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a8283459a53cb42834a8a541f67c2e
+      internalID: -1612814540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4077eacf35a85bb469f0a9b9ba317951
+      internalID: 55677282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETOUCH_IMG_20261014_165743_69
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 16
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605eb9691e3da964a9ab47dcf60170f1
+      internalID: -1431852982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RETOUCH_IMG_20261014_165743_0: 1680486670
+      RETOUCH_IMG_20261014_165743_1: 850353690
+      RETOUCH_IMG_20261014_165743_10: 586546235
+      RETOUCH_IMG_20261014_165743_11: -1226742429
+      RETOUCH_IMG_20261014_165743_12: -1318646584
+      RETOUCH_IMG_20261014_165743_13: 363350410
+      RETOUCH_IMG_20261014_165743_14: 322576615
+      RETOUCH_IMG_20261014_165743_15: -1538540382
+      RETOUCH_IMG_20261014_165743_16: 167848369
+      RETOUCH_IMG_20261014_165743_17: 80916511
+      RETOUCH_IMG_20261014_165743_18: -1189010995
+      RETOUCH_IMG_20261014_165743_19: 525145623
+      RETOUCH_IMG_20261014_165743_2: -1510846872
+      RETOUCH_IMG_20261014_165743_20: -124059249
+      RETOUCH_IMG_20261014_165743_21: 509392299
+      RETOUCH_IMG_20261014_165743_22: -1041353988
+      RETOUCH_IMG_20261014_165743_23: -1534370008
+      RETOUCH_IMG_20261014_165743_24: 1473693984
+      RETOUCH_IMG_20261014_165743_25: 792068945
+      RETOUCH_IMG_20261014_165743_26: -128269957
+      RETOUCH_IMG_20261014_165743_27: -412587520
+      RETOUCH_IMG_20261014_165743_28: -1816466632
+      RETOUCH_IMG_20261014_165743_29: -866682671
+      RETOUCH_IMG_20261014_165743_3: 1629503358
+      RETOUCH_IMG_20261014_165743_30: 527185841
+      RETOUCH_IMG_20261014_165743_31: 865360395
+      RETOUCH_IMG_20261014_165743_32: -297551867
+      RETOUCH_IMG_20261014_165743_33: -1338730170
+      RETOUCH_IMG_20261014_165743_34: -234719939
+      RETOUCH_IMG_20261014_165743_35: 1132591267
+      RETOUCH_IMG_20261014_165743_36: 2007383518
+      RETOUCH_IMG_20261014_165743_37: -1151562928
+      RETOUCH_IMG_20261014_165743_38: 2100022697
+      RETOUCH_IMG_20261014_165743_39: -429940735
+      RETOUCH_IMG_20261014_165743_4: 142434308
+      RETOUCH_IMG_20261014_165743_40: -1111367099
+      RETOUCH_IMG_20261014_165743_41: -1781846203
+      RETOUCH_IMG_20261014_165743_42: -1950357637
+      RETOUCH_IMG_20261014_165743_43: -1798719191
+      RETOUCH_IMG_20261014_165743_44: 191065465
+      RETOUCH_IMG_20261014_165743_45: 1063248923
+      RETOUCH_IMG_20261014_165743_46: -269872597
+      RETOUCH_IMG_20261014_165743_47: -465702581
+      RETOUCH_IMG_20261014_165743_48: -885651123
+      RETOUCH_IMG_20261014_165743_49: 1233126318
+      RETOUCH_IMG_20261014_165743_5: 1802572215
+      RETOUCH_IMG_20261014_165743_50: 1362112280
+      RETOUCH_IMG_20261014_165743_51: -1294937665
+      RETOUCH_IMG_20261014_165743_52: -372363668
+      RETOUCH_IMG_20261014_165743_53: -1225606127
+      RETOUCH_IMG_20261014_165743_54: 203241276
+      RETOUCH_IMG_20261014_165743_55: -1102365929
+      RETOUCH_IMG_20261014_165743_56: 1551597157
+      RETOUCH_IMG_20261014_165743_57: 1485376102
+      RETOUCH_IMG_20261014_165743_58: -1989966017
+      RETOUCH_IMG_20261014_165743_59: 77364257
+      RETOUCH_IMG_20261014_165743_6: 1515583974
+      RETOUCH_IMG_20261014_165743_60: -1609450035
+      RETOUCH_IMG_20261014_165743_61: -1425036970
+      RETOUCH_IMG_20261014_165743_62: 847747396
+      RETOUCH_IMG_20261014_165743_63: 190864672
+      RETOUCH_IMG_20261014_165743_64: 2004431720
+      RETOUCH_IMG_20261014_165743_65: 347554795
+      RETOUCH_IMG_20261014_165743_66: 274121669
+      RETOUCH_IMG_20261014_165743_67: -1612814540
+      RETOUCH_IMG_20261014_165743_68: 55677282
+      RETOUCH_IMG_20261014_165743_69: -1431852982
+      RETOUCH_IMG_20261014_165743_7: -592869454
+      RETOUCH_IMG_20261014_165743_8: -461085690
+      RETOUCH_IMG_20261014_165743_9: -1899388809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
