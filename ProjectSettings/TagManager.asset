@@ -75,3 +75,6 @@ TagManager:
   - name: people
     uniqueID: 2499066605
     locked: 0
+  - name: floor
+    uniqueID: 228787899
+    locked: 0
